@@ -6,4 +6,4 @@
 
 **This is NOT an open source project!**
 
-It's just the source code of one of my public livestreaming, in order to share the code to the audience. If you're lookinf for an open source project of Jetpack Compose, this is probably something you'd better just ignore.
+It's just the source code of one of my public livestreaming, in order to share the code to the audience. If you're looking for an open source project of Jetpack Compose, this is probably something you'd better just ignore.
